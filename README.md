@@ -1,0 +1,2 @@
+# AEEE
+Common code exercises
